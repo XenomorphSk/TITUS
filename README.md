@@ -3,6 +3,11 @@
 **Versão:** Beta  
 **Autor:** Gabriel Skura Ribeiro
 
+
+![Titus Logo](https://preview.redd.it/lgzzwzkfym481.jpg?width=640&crop=smart&auto=webp&s=5d00cd6bfe00f583fff7acbbeff7e977f7ce09e3)
+
+
+
 ---
 
 ## 🔧 Sobre o Titus
