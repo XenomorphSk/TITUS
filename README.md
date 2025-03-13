@@ -32,8 +32,8 @@ Titus é uma ferramenta de segurança que oferece funcionalidades de:
 ### 1. Execute o Script de Instalação
 
 ```bash
-chmod +x install_titus.sh
-sudo ./install_titus.sh
+chmod +x install.sh
+sudo ./install.sh
 ```
 
 ### 2. Ative o Ambiente Virtual
